@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TidySigma
+- 👋 Hi, My name is Arham Choudhury, posting as @TidySigma
 - 👀 I’m interested in Data Science, R, Python, SQL
 - 🌱 I’m currently learning R & Python; Machine Learning for Time Series Data
 - 💞️ I’m looking to collaborate on Time Series data
-- 📫 How to reach me TidySigma @ gmail.com
+- 📫 How to reach me... email: TidySigma@ gmail.com
+-                        Twitter: @TidySigma
 
 <!---
 TidySigma/TidySigma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
